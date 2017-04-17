@@ -1,11 +1,11 @@
 {
-  "name": "@segment/integration-facebook-app-events",
+  "name": "@astronomerio/integration-facebook-app-events",
   "version": "1.2.4",
   "description": "Facebook App Events server-side integration",
   "author": "Segment <friends@segment.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/segmentio/integration-facebook-app-events"
+    "url": "https://github.com/astronomer-integrations/integration-facebook-app-events"
   },
   "main": "lib/index.js",
   "scripts": {
@@ -17,8 +17,8 @@
     "is": "^2.1.0",
     "qs": "^2.3.3",
     "reject": "0.0.1",
-    "segmentio-facade": "^3.1.0",
-    "segmentio-integration": "^5.1.0",
+    "segmentio-facade": "3.1.0",
+    "segmentio-integration": "5.1.0",
     "unix-time": "^1.0.1"
   },
   "devDependencies": {
